@@ -13,4 +13,4 @@ We converted all the words in a message into lowercase and removed punctuation a
 
 # Modeling Approach
 
-We split the dataset of 5574 messages into 4459 messages (for training) and 1115 messages (for validation). We used a Multinomial Naive Bayes classifier to predict whether a message is ham/spam. We achieve an accuracy of ~97% on the test dataset.
+We split the dataset of 5,574 messages into 4,459 messages (for training) and 1,115 messages (for validation). We used a Multinomial Naive Bayes classifier to predict whether a message is ham/spam. We achieve an accuracy of ~97% on the test dataset.
